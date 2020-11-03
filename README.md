@@ -4,7 +4,7 @@
 
 ## **Description**
 
-> This application is a budget tracker that allows the user to track their spending both on and offline. This ia also a Progressive Web Application and can be downloaded to the client's desktop.
+> This application is a budget tracker that allows the user to track their spending both on and offline. This is also a Progressive Web Application and can be downloaded to the client's desktop.
 
 ## **Table of Contents**
 
@@ -29,6 +29,7 @@
 ## **Questions**
 
 Find me on GitHub at https://github.com/PatCeriale.
+
 Contact me via email at Patceriale@gmail.com.
 
 ## **Preview**
