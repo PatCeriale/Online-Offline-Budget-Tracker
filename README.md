@@ -6,6 +6,8 @@
 
 > This application is a budget tracker that allows the user to track their spending both on and offline. This is also a Progressive Web Application and can be downloaded to the client's desktop.
 
+Link to deployed app: https://sleepy-anchorage-48385.herokuapp.com/.
+
 ## **Table of Contents**
 
 1. [Installation](#installation)
